@@ -5,6 +5,9 @@
         static void Main(string[] args)
         {
             Console.WriteLine("mojn World");
+
+
+            Console.WriteLine("adios world");
         }
     }
 }
